@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467167021233",
+    "project_id": "nikoloz-75c75",
+    "storage_bucket": "nikoloz-75c75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467167021233:android:188b81a617c6f452acba90",
+        "android_client_info": {
+          "package_name": "com.example.myrecyclerviewapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4h5B8hSP8xfiZP4cYGYUvzOgCEysPc5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
